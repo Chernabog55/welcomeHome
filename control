@@ -1,0 +1,9 @@
+Package: com.chernabog55.welcomehome
+Name: welcomeHome
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Back to basics!
+Maintainer: The Demon of Bald Mountain <chernabog55@gmail.com>
+Author: The Demon of Bald Mountain <chernabog55@gmail.com>
+Section: Tweaks
